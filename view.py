@@ -3,3 +3,6 @@ def view_data(data):
 
 def get_value():
     return int(input('Значение = '))
+
+def get_znack():
+    return (input("Введите символ...")) #Определяет знак

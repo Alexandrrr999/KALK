@@ -1,6 +1,6 @@
 import init
 
  
-def min():
+def mins():
     x,y = init.get_data()
     return x-y
