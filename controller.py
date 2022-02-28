@@ -1,4 +1,3 @@
-import umn as model
 import view 
 import init
 import Z
